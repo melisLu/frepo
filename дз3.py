@@ -85,8 +85,3 @@ for day in range (365):
         print('Student lose')
         break
     nick.live(day)
-
-
-
-
-
